@@ -1,1 +1,1 @@
-# Comic-to-Audio-Synthesizing-Digital-Comics-to-Audiobooks
+# Comic-to-Audio : Synthesizing-Digital-Comics-to-Audiobooks
